@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://notaparrot.github.io/about/</loc>
+    <lastmod>2020-11-15T07:38:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notaparrot.github.io/</loc>
+    <lastmod>2020-11-15T07:38:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://notaparrot.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://notaparrot.github.io/meta_morphose/</loc>
+  </url>
+  
+  <url>
+    <loc>https://notaparrot.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://notaparrot.github.io/sketchbook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://notaparrot.github.io/tags/</loc>
+  </url>
+  
+</urlset>
