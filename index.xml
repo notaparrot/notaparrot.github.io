@@ -5,21 +5,16 @@
     <link>https://notaparrot.github.io/</link>
     <description>Recent content on notaparrot</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2020 07:38:55 +0100</lastBuildDate>
-    
-	<atom:link href="https://notaparrot.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://notaparrot.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://notaparrot.github.io/about/</link>
       <pubDate>Sun, 15 Nov 2020 07:38:55 +0100</pubDate>
       
       <guid>https://notaparrot.github.io/about/</guid>
-      <description>Hello I&amp;rsquo;m Hugo. I&amp;rsquo;m a media design student at the ESADSE.
-The website in front of you is made with Hugo (the framework) by Hugo (me). It&amp;rsquo;s using my modified version of the theme Sam.
-You can contact me at iwillputmyemailhereatsomepoint@mailprovider.net !</description>
+      <description>Hello, my name is Hugo. I&amp;rsquo;m a media design student at the ESADSE.
+The website in front of you is made with Hugo (the framework) by Hugo (me). I used :
+ A modified version of the theme Sam. The font Bagnard Sans The font Inknut Antiqua Light  -&amp;gt; You can contact me at myemailadress@mailprovider.net ! &amp;lt;-</description>
     </item>
     
   </channel>

@@ -5,10 +5,6 @@
     <link>https://notaparrot.github.io/meta_morphose/</link>
     <description>Recent content in meta_morphose on notaparrot</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://notaparrot.github.io/meta_morphose/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://notaparrot.github.io/meta_morphose/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

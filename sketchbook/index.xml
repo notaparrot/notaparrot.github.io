@@ -5,10 +5,6 @@
     <link>https://notaparrot.github.io/sketchbook/</link>
     <description>Recent content in Sketchbook on notaparrot</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://notaparrot.github.io/sketchbook/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://notaparrot.github.io/sketchbook/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
